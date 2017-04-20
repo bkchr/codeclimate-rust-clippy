@@ -1,0 +1,11 @@
+{
+  "name": "rustfmt",
+    "description": "A tool for linting rust source code.",
+    "maintainer": {
+    "name": "Bastian Köcher",
+    "email": "codeclimate@kchr.de"
+  },
+  "languages" : ["Rust"],
+  "version": "1",
+  "spec_version": "0.0.1"
+}
