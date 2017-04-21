@@ -1,5 +1,5 @@
 {
-  "name": "rustfmt",
+  "name": "rust-clippy",
     "description": "A tool for linting rust source code.",
     "maintainer": {
     "name": "Bastian Köcher",
